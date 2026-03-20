@@ -37,7 +37,7 @@ public class Calculator {
                 }
                 break;
             default:
-                System.out.println("Invalid operator. Please choose a valid operation.");
+                System.out.println("Invalid operator. choose a valid operation.");
         }
 
         // Close the scanner
